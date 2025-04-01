@@ -251,3 +251,15 @@ hr{
     color: var(--blanco);
     margin: 0;
 }
+.card .contenido p{
+    color: var(--blanco);
+    margin: 0;
+}
+
+/*Sidebar*/
+@media (min-width: 768px){
+    .con-sidebar{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+}

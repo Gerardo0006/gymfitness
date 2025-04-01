@@ -1,0 +1,1 @@
+<h1>Hola mundo desde single.php (Custom Post y Entradas de Blog)</h1>
